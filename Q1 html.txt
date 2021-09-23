@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+<title> Practical - Ques 1 </title>
+<body style= background-color:lightgray>
+<h1> TEXT FORMATTING Examples </h2>
+
+<p>These are the examples of <b>bold
+</b> and <i>italic</i> texts</p>
+<p> This is an example of <u>underlined</u> text
+
+<p style= color:violet > Coloured text </p>
+<p style="font-family:Courier New; font-size:30px">THIS IS AN EXAMPLE OF FONT FORMATTING</p>
+<p><marquee> This is a marquee text ! </p>
+</body>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Ordered List</h1>
+<ol>
+<li>Statistics</li>
+<li>Mathematics</li>
+<li>Data Science</li>
+<li>Data Analytics</li>
+</ol>
+
+<h2>Unordered List</h2>
+<ul>
+<li>Statistics</li>
+<li>Mathematics</li>
+<li>Data Science</li>
+<li>Data Analytics</li>
+</ul>
+<h3> IMAGE </h3>
+<img src="https://static.thenounproject.com/png/62495-200.png" > 
+</html>
